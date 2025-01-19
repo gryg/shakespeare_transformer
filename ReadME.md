@@ -1,1 +1,3 @@
+Update:
+After many timeouts from Google colab, could only run 4 epochs for the configs without running out of time. Uploaded the results for the training over 4 epochs (I noticed that performance wasn't the point of the assignment, so I think this should be enough to show that the model's initial results). The results are in the `Analysis_model_results_interpretation.pdf` file.
 Ran out of compute time on 2 google accounts on google colab(also faced issues connecting to the grid through wsl), so the commit of the training & eval results will be delayed a bit in the commit history.
